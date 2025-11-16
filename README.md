@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-[![Super-Linter](https://github.com/<OWNER>/<REPOSITORY>/actions/workflows/<WORKFLOW_FILE_NAME>/badge.svg)](https://github.com/marketplace/actions/super-linter)
+I have created several LaTeX cheatsheets for the Mechanical Engineering bachelor at ETH
+Currently, I am looking for meaningful projects to encahnce my coding skills in different languages (Java) and to learn how to write and harness ML algorithms.
 
 <!--
 **L3ol3on/L3ol3on** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
